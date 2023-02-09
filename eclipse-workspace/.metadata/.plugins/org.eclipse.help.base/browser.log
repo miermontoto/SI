@@ -1,0 +1,5 @@
+
+Feb 02, 2023 12:22:42.17 NEW SESSION
+Feb 02, 2023 12:22:42.17 which: no mozilla in (/usr/local/cuda/bin:/home/mier/git/scripts:/home/mier/.cargo/bin:/usr/local/bin:/usr/bin:/home/mier/.local/bin:/home/mier/.spicetify:/home/under/.local/bin:/usr/local/sbin:/usr/sbin)
+Feb 02, 2023 12:22:42.73 which: no netscape in (/usr/local/cuda/bin:/home/mier/git/scripts:/home/mier/.cargo/bin:/usr/local/bin:/usr/bin:/home/mier/.local/bin:/home/mier/.spicetify:/home/under/.local/bin:/usr/local/sbin:/usr/sbin)
+Feb 02, 2023 12:22:42.136 /usr/bin/firefox
