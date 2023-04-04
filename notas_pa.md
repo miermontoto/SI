@@ -1,0 +1,8 @@
+- No tomar al pie de la letra, tomarlo como una plantilla.
+- Apartados a entregar: 1, 2, 3, 4, 8, 11
+	- NO entregar apartados en blanco o sin rellenar.
+- No dejar "cajas", elminar texto original.
+- Sin ambigüedades, determinar requisitos, con numeración.
+- Tener en cuenta el proyecto, no tiene por qué ser lo que dice en la plantilla (en especial documentos a generar)
+- En el apartado 8, describir Scrum y cómo se lleva a cabo.
+- Describir lo que ha hecho cada miembro del equipo.
